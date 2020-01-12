@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>9907.jpg</filename>
+	<path>/Users/nicho/Desktop/HardlineHackathon2020/TensorflowTest/workspace/training_test/images/test/9907.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>3</ymin>
+			<xmax>402</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>
