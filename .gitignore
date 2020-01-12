@@ -1,1 +1,5 @@
 models/*
+.DS_STORE
+workspace/training_test/pre-trained-model
+workspace/training_test/trained-inference-graphs
+workspace/training_test/training
